@@ -1,0 +1,190 @@
+html,
+body {
+  font-family: Lato, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased; }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Teko, Helvetica, Arial, sans-serif;
+  color: #498658;
+  font-weight: 600; }
+
+.main-navbar.transparent {
+  transition: all 300ms ease;
+  background-color: transparent; }
+
+.main-navbar {
+  font-family: Teko, Helvetica, Arial, sans-serif; }
+
+.main-navbar {
+  transition: all 400ms ease-in;
+  background-color: #323232;
+  font-weight: 700; }
+  .main-navbar button.navbar-toggler {
+    border: none;
+    padding: 0.6em 1em 0.5em 1em; }
+    .main-navbar button.navbar-toggler .navbar-toggler-icon {
+      background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 0.9)' stroke-width='4' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E") !important; }
+  .main-navbar .navbar-brand {
+    color: #fff;
+    font-size: 2em;
+    transition: 200ms;
+    letter-spacing: .05em; }
+    .main-navbar .navbar-brand:hover, .main-navbar .navbar-brand:active, .main-navbar .navbar-brand:focus {
+      color: #e6e5e5; }
+    .main-navbar .navbar-brand .primary {
+      color: #498658;
+      letter-spacing: -0.05em; }
+  .main-navbar .nav-link {
+    text-transform: uppercase;
+    color: #fff !important;
+    transition: 200ms;
+    padding: 0.6em 1em 0.5em 1em; }
+    .main-navbar .nav-link:hover {
+      color: #498658 !important; }
+  .main-navbar .nav-item {
+    padding: 0.5em; }
+  .main-navbar .nav-item.cta {
+    padding: 0.4em; }
+  .main-navbar .nav-link.cta {
+    border: 2px solid #498658 !important;
+    border-radius: 6px;
+    padding: 0.6em 2em 0.5em 2em; }
+    .main-navbar .nav-link.cta:hover {
+      background-color: #498658;
+      color: #fff !important; }
+
+@media screen and (max-width: 575px) {
+  nav.navbar {
+    background-color: #323232 !important; }
+    nav.navbar .nav-container {
+      margin-left: 0;
+      margin-right: 0; }
+    nav.navbar ul li {
+      text-align: center; } }
+
+@media screen and (max-width: 991px) {
+  nav.navbar {
+    background-color: #323232 !important; } }
+
+.hero {
+  background-color: #323232;
+  background-image: url("../images/hero-banner-1400x580.jpg");
+  background-attachment: fixed;
+  background-position: center top;
+  background-repeat: no-repeat;
+  height: 580px !important;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  z-index: 0;
+  margin-bottom: 60px;
+  font-family: Teko, Helvetica, Arial, sans-serif; }
+  .hero #particles {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    width: 100%;
+    height: 580px; }
+  .hero .container {
+    z-index: 100;
+    text-align: center; }
+  .hero h1, .hero h4 {
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+    letter-spacing: .05em; }
+  .hero h1 {
+    color: #fff;
+    font-size: 4rem;
+    font-weight: 700; }
+    .hero h1 > .highlight {
+      color: #498658;
+      letter-spacing: -.05em; }
+  .hero h4 {
+    color: #807f7f;
+    letter-spacing: -.02em;
+    font-size: 1.5rem;
+    font-weight: 600;
+    text-transform: uppercase; }
+  .hero a.cta {
+    display: inline-block;
+    text-align: center;
+    background-color: #5a8085;
+    color: #fff;
+    padding: 0.5em 2em;
+    border-radius: 20px;
+    font-size: 2em;
+    text-transform: uppercase;
+    box-shadow: 0px 6px 0px #314548;
+    margin: 20px auto 0 auto !important;
+    transition: 200ms;
+    font-weight: 500;
+    position: relative;
+    transition: 200ms;
+    top: 0px;
+    left: 0px; }
+    .hero a.cta:hover, .hero a.cta:active, .hero a.cta:focus {
+      text-decoration: none; }
+    .hero a.cta:active {
+      top: 5px;
+      box-shadow: 0px 0px 0px #314548; }
+
+.page-module:nth-child(even) {
+  background-color: #323232;
+  color: #fff; }
+
+.page-module {
+  margin-bottom: 60px;
+  padding-bottom: 60px; }
+  .page-module h2.title {
+    margin-bottom: 60px;
+    text-align: center;
+    text-transform: lowercase; }
+
+#progress .banner {
+  height: 240px !important;
+  background-color: #323232;
+  background-image: url("../images/illidan-paralax.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  margin-bottom: 60px; }
+  #progress .banner h2.title {
+    color: #fff;
+    margin: 0;
+    padding: 0; }
+
+.card {
+  border: none;
+  border-radius: 0; }
+  .card img {
+    border-radius: 6px; }
+  .card h4 {
+    margin-bottom: 0; }
+  .card time {
+    margin-top: -2em;
+    font-family: Teko, Helvetica, Arial, sans-serif;
+    font-size: 1em;
+    color: #656565; }
+  .card .card-block {
+    padding-left: 0;
+    padding-right: 0; }
+
+@media screen and (max-width: 575px) {
+  .card {
+    border-bottom: 2px solid #b2b1b1;
+    margin-bottom: 60px; } }

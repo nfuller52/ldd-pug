@@ -1,0 +1,79 @@
+.hero
+  background:
+    color: $grey
+    image: url("../images/hero-banner-1400x580.jpg")
+    attachment: fixed
+    position: center top
+    repeat: no-repeat
+  height: 580px !important
+  display: flex
+  flex-direction: column
+  justify-content: center
+  align-items: center
+  overflow: hidden
+  z-index: 0
+  margin-bottom: 60px
+  font-family: Teko, Helvetica, Arial, sans-serif
+
+  #particles
+    position: absolute
+    top: 0
+    left: 0
+    z-index: 1
+    width: 100%
+    height: 580px
+
+  .container
+    z-index: 100
+    text-align: center
+
+  h1, h4
+    margin: 0 auto
+    display: block
+    text-align: center
+    letter-spacing: .05em
+
+  h1
+    color: $white
+    font:
+      size: 4rem
+      weight: 700
+
+    >.highlight
+      color: $primary
+      letter-spacing: -.05em
+
+  h4
+    color: darken($white, 50%)
+    letter-spacing: -.02em
+    font:
+      size: 1.5rem
+      weight: 600
+    text-transform: uppercase
+
+  a.cta
+    display: inline-block
+    text-align: center
+    background-color: $secondary
+    color: $white
+    padding: 0.5em 2em
+    border-radius: 20px
+    font-size: 2em
+    text-transform: uppercase
+    box-shadow: 0px 6px 0px darken($secondary, 20%)
+    margin: 20px auto 0 auto !important
+    transition: 200ms
+    font-weight: 500
+    position: relative
+    transition: 200ms
+    top: 0px
+    left: 0px
+
+    &:hover,
+    &:active,
+    &:focus
+      text-decoration: none
+
+    &:active
+      top: 5px
+      box-shadow: 0px 0px 0px darken($secondary, 20%)
