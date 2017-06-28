@@ -184,7 +184,112 @@ h6 {
     padding-left: 0;
     padding-right: 0; }
 
+.recruitment-card {
+  height: 300px !important;
+  margin-bottom: 15px;
+  padding: 0;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  flex-basis: auto;
+  justify-content: flex-end;
+  align-items: flex-end;
+  overflow: hidden;
+  position: relative; }
+  .recruitment-card a {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0; }
+
+.recruitment-specs {
+  display: flex;
+  width: 188px;
+  margin: 0 auto;
+  justify-content: space-around;
+  flex-wrap: wrap-reverse;
+  flex-direction: row; }
+
+.recruitment-card-spec {
+  margin-bottom: 10px;
+  position: relative;
+  z-index: 0; }
+  .recruitment-card-spec.lone-spec {
+    margin-left: 6px;
+    margin-right: auto;
+    order: 4; }
+  .recruitment-card-spec.disabled {
+    display: none;
+    visibility: hidden; }
+
+.recruitment-death-knight {
+  background-image: url("../images/recruitment-death-knight-bg.jpg"); }
+
+.recruitment-demon-hunter {
+  background-image: url("../images/recruitment-demon-hunter-bg.jpg"); }
+
+.recruitment-druid {
+  background-image: url("../images/recruitment-druid-bg.jpg"); }
+
+.recruitment-hunter {
+  background-image: url("../images/recruitment-hunter-bg.jpg"); }
+
+.recruitment-mage {
+  background-image: url("../images/recruitment-mage-bg.jpg"); }
+
+.recruitment-monk {
+  background-image: url("../images/recruitment-monk-bg.jpg"); }
+
+.recruitment-paladin {
+  background-image: url("../images/recruitment-paladin-bg.jpg"); }
+
+.recruitment-priest {
+  background-image: url("../images/recruitment-priest-bg.jpg"); }
+
+.recruitment-rogue {
+  background-image: url("../images/recruitment-rogue-bg.jpg"); }
+
+.recruitment-shaman {
+  background-image: url("../images/recruitment-shaman-bg.jpg"); }
+
+.recruitment-warlock {
+  background-image: url("../images/recruitment-warlock-bg.jpg"); }
+
+.recruitment-warrior {
+  background-image: url("../images/recruitment-warrior-bg.jpg"); }
+
 @media screen and (max-width: 575px) {
   .card {
     border-bottom: 2px solid #b2b1b1;
     margin-bottom: 60px; } }
+
+.primary {
+  color: #498658; }
+
+a {
+  color: #498658;
+  transition: all 300ms; }
+  a:hover {
+    color: #376542;
+    text-decoration: none; }
+
+footer {
+  height: 244px;
+  padding-top: 120px;
+  background-color: #323232;
+  color: #fff;
+  font-family: 'Teko', sans-serif;
+  font-size: 1.2em; }
+  footer .right {
+    text-align: right; }
+
+@media screen and (max-width: 767px) {
+  footer {
+    padding-top: 100px;
+    text-align: center; }
+    footer .right {
+      text-align: center; } }

@@ -59,7 +59,7 @@ function smoothScrolling() {
         if (target.length) {
           event.preventDefault();
           $('html, body').animate({
-            scrollTop: target.offset().top - 80
+            scrollTop: target.offset().top - 74
           }, 1000, function() {
             var $target = $(target);
             $target.focus();
