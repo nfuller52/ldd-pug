@@ -267,6 +267,101 @@ h6 {
     border-bottom: 2px solid #b2b1b1;
     margin-bottom: 60px; } }
 
+#progress .row {
+  margin-bottom: 60px; }
+
+#progress h3,
+#progress h4 {
+  font-family: 'Teko', sans-serif;
+  text-transform: uppercase;
+  text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.8); }
+
+#progress h3 {
+  color: #fff !important; }
+
+#progress h3.hidden-lg-up {
+  margin: 0 auto; }
+
+.progress-title {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  height: 200px;
+  width: 200px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain; }
+  .progress-title h3 {
+    font-size: 1.3em;
+    margin: 0; }
+  .progress-title h4 {
+    color: #838383;
+    font-size: 1.2em; }
+  .progress-title.tos {
+    background-image: url("../images/progression-tos.png"); }
+  .progress-title.nh {
+    background-image: url("../images/progression-nh.png"); }
+  .progress-title.tov {
+    background-image: url("../images/progression-tov.png"); }
+  .progress-title.en {
+    background-image: url("../images/progression-en.png"); }
+
+.progress-bar-container {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  flex-direction: column; }
+  .progress-bar-container .progress-marker {
+    width: 2px;
+    height: 20px;
+    position: absolute;
+    background: #838383; }
+  .progress-bar-container .progress-marker:nth-child(even) {
+    top: 60px; }
+    .progress-bar-container .progress-marker:nth-child(even) .progress-label {
+      position: absolute;
+      top: -15px;
+      left: -13px;
+      font-family: 'Teko', 'sans-serif';
+      font-size: 1.2em;
+      text-transform: uppercase;
+      text-align: center; }
+  .progress-bar-container .progress-marker:nth-child(odd) {
+    bottom: 60px; }
+
+.progress,
+.progress-bar {
+  border-radius: 20px;
+  padding: 4px;
+  background-color: #4c4b4b; }
+
+.progress-bar {
+  height: 20px;
+  background-color: #498658; }
+  .progress-bar.mythic {
+    background-color: #5a8085; }
+
+.progress-counter {
+  display: flex;
+  justify-content: center;
+  flex-direction: column; }
+
+.progress-count {
+  font-family: 'Teko', sans-serif;
+  text-align: left; }
+  .progress-count p {
+    margin: 0;
+    padding: 0; }
+  .progress-count .count {
+    font-size: 2.2em;
+    color: #498658;
+    font-weight: 700; }
+  .progress-count .total {
+    color: #838383;
+    font-weight: 500;
+    font-size: 1.6em; }
+
 .primary {
   color: #498658; }
 

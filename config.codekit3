@@ -51,6 +51,50 @@
 		"opt": 1,
 		"q": 100
 		},
+	"\/images\/progression-en.png": {
+		"ft": 32768,
+		"iS": 57323,
+		"oA": 0,
+		"oAP": "\/images\/progression-en.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/progression-nh.png": {
+		"ft": 32768,
+		"iS": 55341,
+		"oA": 0,
+		"oAP": "\/images\/progression-nh.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/progression-tos.png": {
+		"ft": 32768,
+		"iS": 54265,
+		"oA": 0,
+		"oAP": "\/images\/progression-tos.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/progression-tov.png": {
+		"ft": 32768,
+		"iS": 67149,
+		"oA": 0,
+		"oAP": "\/images\/progression-tov.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/images\/recruitment-death-knight-bg.jpg": {
 		"ft": 16384,
 		"iS": 47547,
@@ -649,6 +693,19 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "\/stylesheets\/_page-modules.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/source\/_progressbars.sass": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 2,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/stylesheets\/_progressbars.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1

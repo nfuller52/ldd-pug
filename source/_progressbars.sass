@@ -1,0 +1,110 @@
+#progress
+  .row
+    margin-bottom: 60px
+
+  h3,
+  h4
+    font-family: 'Teko', sans-serif
+    text-transform: uppercase
+    text-shadow: 1px 1px 0 rgba(0, 0, 0, .8)
+
+  h3
+    color: $white !important
+
+  h3.hidden-lg-up
+    margin: 0 auto
+
+.progress-title
+  display: flex
+  justify-content: center
+  flex-direction: column
+  text-align: center
+  height: 200px
+  width: 200px
+  background:
+    position: center
+    repeat: no-repeat
+    size: contain
+
+  h3
+    font-size: 1.3em
+    margin: 0
+
+  h4
+    color: $light-grey
+    font-size: 1.2em
+
+  &.tos
+    background-image: url("../images/progression-tos.png")
+
+  &.nh
+    background-image: url("../images/progression-nh.png")
+
+  &.tov
+    background-image: url("../images/progression-tov.png")
+
+  &.en
+    background-image: url("../images/progression-en.png")
+
+.progress-bar-container
+  position: relative
+  display: flex
+  justify-content: center
+  flex-direction: column
+
+  .progress-marker
+    width: 2px
+    height: 20px
+    position: absolute
+    background: $light-grey
+
+  .progress-marker:nth-child(even)
+    top: 60px
+
+    .progress-label
+      position: absolute
+      top: -15px
+      left: -13px
+      font-family: 'Teko', 'sans-serif'
+      font-size: 1.2em
+      text-transform: uppercase
+      text-align: center
+
+  .progress-marker:nth-child(odd)
+    bottom: 60px
+
+.progress,
+.progress-bar
+  border-radius: 20px
+  padding: 4px
+  background-color: lighten($grey, 10%)
+
+.progress-bar
+  height: 20px
+  background-color: $primary
+
+  &.mythic
+    background-color: $secondary
+
+.progress-counter
+  display: flex
+  justify-content: center
+  flex-direction: column
+
+.progress-count
+  font-family: 'Teko', sans-serif
+  text-align: left
+
+  p
+    margin: 0
+    padding: 0
+
+  .count
+    font-size: 2.2em
+    color: $primary
+    font-weight: 700
+
+  .total
+    color: $light-grey
+    font-weight: 500
+    font-size: 1.6em

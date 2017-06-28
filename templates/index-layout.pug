@@ -52,12 +52,82 @@ html(lang="en")
       .banner
         h2.title progress
       .container
-        p Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,
+        .row
+          h3.hidden-lg-up Normal Tomb of Sargeras
+          .col-md-2.hidden-md-down.progress-title.tos
+            h3 Tomb of Sargeras
+            h4 Normal
+          .col-md-12.col-lg-9.progress-bar-container
+            .progress
+              .progress-bar(role="progressbar", style="width: 100%", aria-valuenow="25", aria-valuemin="0", aria-valuemax="100")
+              .hidden-md-down.progress-marker(style="left: 3%")
+              .hidden-md-down.progress-marker(style="left: 12.125%")
+              .hidden-md-down.progress-marker(style="left: 24.25%")
+              .hidden-md-down.progress-marker(style="left: 36.375%")
+              .hidden-md-down.progress-marker(style="left: 48.5%")
+              .hidden-md-down.progress-marker(style="left: 60.625%")
+              .hidden-md-down.progress-marker(style="left: 72.75%")
+              .hidden-md-down.progress-marker(style="left: 84.875%")
+              .hidden-md-down.progress-marker(style="left: 97%")
+          .col-lg-1.hidden-md-down.progress-counter
+            .progress-count
+              p #[span.count 9 ] #[span.total / 9]
+        .row
+          h3.hidden-lg-up Mythic Nighthold
+          .col-md-2.hidden-md-down.progress-title.nh
+            h3 Nighthold
+            h4 Mythic
+          .col-md-12.col-lg-9.progress-bar-container
+            .progress
+              .progress-bar.mythic(role="progressbar", style="width: 3%", aria-valuenow="25", aria-valuemin="0", aria-valuemax="100")
+              .hidden-md-down.progress-marker(style="left: 3%")
+              .hidden-md-down.progress-marker(style="left: 12.125%")
+              .hidden-md-down.progress-marker(style="left: 24.25%")
+              .hidden-md-down.progress-marker(style="left: 36.375%")
+              .hidden-md-down.progress-marker(style="left: 48.5%")
+              .hidden-md-down.progress-marker(style="left: 60.625%")
+              .hidden-md-down.progress-marker(style="left: 72.75%")
+              .hidden-md-down.progress-marker(style="left: 84.875%")
+              .hidden-md-down.progress-marker(style="left: 97%")
+          .col-lg-1.hidden-md-down.progress-counter
+            .progress-count
+              p #[span.count 1 ] #[span.total / 9]
+        .row
+          h3.hidden-lg-up Heroic Trial of Valor
+          .col-md-2.hidden-md-down.progress-title.tov
+            h3 Trial of Valor
+            h4 Heroic
+          .col-md-12.col-lg-9.progress-bar-container
+            .progress
+              .progress-bar(role="progressbar", style="width: 100%", aria-valuenow="25", aria-valuemin="0", aria-valuemax="100")
+              .hidden-md-down.progress-marker(style="left: 3%")
+              .hidden-md-down.progress-marker(style="left: 47%")
+              .hidden-md-down.progress-marker(style="left: 97%")
+          .col-lg-1.hidden-md-down.progress-counter
+            .progress-count
+              p #[span.count 3 ] #[span.total / 3]
+        .row
+          h3.hidden-lg-up Mythic Emerald Nightmare
+          .col-md-2.hidden-md-down.progress-title.en
+            h3 Emerald Nightmare
+            h4 Mythic
+          .col-md-12.col-lg-9.progress-bar-container
+            .progress
+              .progress-bar.mythic(role="progressbar", style="width: 31.3333333334%", aria-valuenow="25", aria-valuemin="0", aria-valuemax="100")
+              .hidden-md-down.progress-marker(style="left: 3%")
+              .hidden-md-down.progress-marker(style="left: 15.6666666667%")
+              .hidden-md-down.progress-marker(style="left: 31.3333333334%")
+              .hidden-md-down.progress-marker(style="left: 47.0000000001%")
+              .hidden-md-down.progress-marker(style="left: 62.6666666668%")
+              .hidden-md-down.progress-marker(style="left: 78.3333333335%")
+              .hidden-md-down.progress-marker(style="left: 97%")
+          .col-lg-1.hidden-md-down.progress-counter
+            .progress-count
+              p #[span.count 3 ] #[span.total / 8]
 
     section.page-module#recruitment
       .container
         h2.title recruitment
-
         .row
           .col-sm-6.col-md-3.col-lg-4.col-xl-2.recruitment-card.recruitment-death-knight
             .recruitment-specs
