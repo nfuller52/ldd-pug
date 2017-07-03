@@ -19,10 +19,10 @@ html(lang="en")
         #main-nav.collapse.navbar-collapse
           ul.navbar-nav.ml-auto
             each value in ['News', 'Progress', 'Recruitment', 'Forum', 'Roster']
-              li.nav-item
-                a.nav-link(href="#" + value.toLowerCase()) #{value}
-            li.nav-item.cta
-              a.nav-link.cta(href="#") Apply
+              li
+                a(href="#" + value.toLowerCase()) #{value}
+            li
+              a(href="#") Apply
 
     section.jumbotron-fluid.hero#main-hero
       div#particles
@@ -211,7 +211,6 @@ html(lang="en")
             p.right
               |&copy; copyright 2017 #[a(href="/") legion dèl diablo]
 
-    // script(src="//code.jquery.com/jquery-3.1.1.slim.min.js", integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n", crossorigin="anonymous")
     script(src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js")
     script(src="//cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js", integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb", crossorigin="anonymous")
     script(src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js", integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn", crossorigin="anonymous")

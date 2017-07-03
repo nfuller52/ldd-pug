@@ -632,6 +632,1184 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/ldd-camaleon\/.gitignore": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/.gitignore",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/camaleon_first\/assets\/css\/magnific-ver.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/camaleon_first\/assets\/css\/magnific-ver-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/camaleon_first\/assets\/css\/main.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/camaleon_first\/assets\/css\/main-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/camaleon_first\/assets\/css\/style-ver.css.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/stylesheets\/style-ver.css.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/camaleon_first\/assets\/css\/wpbase.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/camaleon_first\/assets\/css\/wpbase-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/camaleon_first\/assets\/images\/empe.jpg": {
+		"ft": 16384,
+		"iS": 69095,
+		"oA": 0,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/camaleon_first\/assets\/images\/empe.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/camaleon_first\/assets\/images\/image.png": {
+		"ft": 32768,
+		"iS": 80160,
+		"oA": 0,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/camaleon_first\/assets\/images\/image.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/camaleon_first\/assets\/images\/loader.gif": {
+		"ft": 4194304,
+		"iS": 2344,
+		"oA": 0,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/camaleon_first\/assets\/images\/loader.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/camaleon_first\/assets\/images\/zoom.png": {
+		"ft": 32768,
+		"iS": 4151,
+		"oA": 0,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/camaleon_first\/assets\/images\/zoom.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/camaleon_first\/assets\/js\/hover.zoom.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/camaleon_first\/assets\/js\/hover.zoom-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/camaleon_first\/assets\/js\/magnific.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/camaleon_first\/assets\/js\/magnific.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/camaleon_first\/assets\/js\/main-ver.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/camaleon_first\/assets\/js\/main-ver-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/camaleon_first\/assets\/js\/main.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/camaleon_first\/assets\/js\/main-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/camaleon_first\/assets\/js\/modernizr.custom.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/camaleon_first\/assets\/js\/modernizr.custom-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/camaleon_first\/config\/config.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/camaleon_first\/config\/config-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/camaleon_first\/main_helper.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/camaleon_first\/main_helper.rb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/camaleon_first\/views\/index.html.erb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/camaleon_first\/views\/index.html.erb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/camaleon_first\/views\/layouts\/camaleon_cms\/mailer.html.erb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/camaleon_first\/views\/layouts\/camaleon_cms\/mailer.html.erb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/camaleon_first\/views\/layouts\/index.html.erb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/camaleon_first\/views\/layouts\/index.html.erb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/camaleon_first\/views\/mailer.html.erb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/camaleon_first\/views\/mailer.html.erb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/camaleon_first\/views\/partials\/readme.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/camaleon_first\/views\/partials\/readme.txt",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/camaleon_first\/views\/template_sample_page.html.erb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/camaleon_first\/views\/template_sample_page.html.erb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/css\/main.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/css\/main-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/css\/style.css.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/stylesheets\/style.css.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/css\/styles.css.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/stylesheets\/styles.css.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/genericons\/COPYING.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/genericons\/COPYING.txt",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/genericons\/font\/genericons-regular-webfont.eot": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/genericons\/font\/genericons-regular-webfont.eot",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/genericons\/font\/genericons-regular-webfont.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/genericons\/font\/genericons-regular-webfont.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/genericons\/font\/genericons-regular-webfont.ttf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/genericons\/font\/genericons-regular-webfont.ttf",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/genericons\/font\/genericons-regular-webfont.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/genericons\/font\/genericons-regular-webfont.woff",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/genericons\/Genericons-Regular.otf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/genericons\/Genericons-Regular.otf",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/genericons\/genericons.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/genericons\/genericons-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/genericons\/LICENSE.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/genericons\/LICENSE.txt",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/genericons\/README.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/genericons\/README.txt",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/images\/circle.png": {
+		"ft": 32768,
+		"iS": 33848,
+		"oA": 0,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/images\/circle.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/images\/dotted-line-2x.png": {
+		"ft": 32768,
+		"iS": 86,
+		"oA": 0,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/images\/dotted-line-2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/images\/dotted-line-light-2x.png": {
+		"ft": 32768,
+		"iS": 85,
+		"oA": 0,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/images\/dotted-line-light-2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/images\/dotted-line-light.png": {
+		"ft": 32768,
+		"iS": 80,
+		"oA": 0,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/images\/dotted-line-light.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/images\/dotted-line.png": {
+		"ft": 32768,
+		"iS": 80,
+		"oA": 0,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/images\/dotted-line.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/images\/headers\/circle-thumbnail.png": {
+		"ft": 32768,
+		"iS": 8001,
+		"oA": 0,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/images\/headers\/circle-thumbnail.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/images\/headers\/circle.png": {
+		"ft": 32768,
+		"iS": 33848,
+		"oA": 0,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/images\/headers\/circle.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/images\/headers\/diamond-thumbnail.png": {
+		"ft": 32768,
+		"iS": 1847,
+		"oA": 0,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/images\/headers\/diamond-thumbnail.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/images\/headers\/diamond.png": {
+		"ft": 32768,
+		"iS": 14266,
+		"oA": 0,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/images\/headers\/diamond.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/images\/headers\/star-thumbnail.png": {
+		"ft": 32768,
+		"iS": 4039,
+		"oA": 0,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/images\/headers\/star-thumbnail.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/images\/headers\/star.png": {
+		"ft": 32768,
+		"iS": 22620,
+		"oA": 0,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/images\/headers\/star.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/images\/image.png": {
+		"ft": 32768,
+		"iS": 77773,
+		"oA": 0,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/images\/image.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/images\/search-icon-2x.png": {
+		"ft": 32768,
+		"iS": 829,
+		"oA": 0,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/images\/search-icon-2x.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/images\/search-icon.png": {
+		"ft": 32768,
+		"iS": 422,
+		"oA": 0,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/images\/search-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/js\/main.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/assets\/js\/main-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/config\/config.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/config\/config-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/default_helper.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/default_helper.rb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/views\/admin\/settings.html.erb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/views\/admin\/settings.html.erb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/views\/category.html.erb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/views\/category.html.erb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/views\/index.html.erb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/views\/index.html.erb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/views\/layouts\/index.html.erb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/views\/layouts\/index.html.erb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/views\/page.html.erb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/views\/page.html.erb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/views\/partials\/_breadcrumb.html.erb": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/views\/partials\/_breadcrumb.html.erb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/views\/partials\/_categories_list.html.erb": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/views\/partials\/_categories_list.html.erb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/views\/partials\/_comments.html.erb": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/views\/partials\/_comments.html.erb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/views\/partials\/_comments_list.html.erb": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/views\/partials\/_comments_list.html.erb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/views\/partials\/_flash_messages.html.erb": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/views\/partials\/_flash_messages.html.erb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/views\/partials\/_forms.html.erb": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/views\/partials\/_forms.html.erb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/views\/partials\/_post_list_item.html.erb": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/views\/partials\/_post_list_item.html.erb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/views\/partials\/_search_form.html.erb": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/views\/partials\/_search_form.html.erb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/views\/partials\/_sidebar.html.erb": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/views\/partials\/_sidebar.html.erb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/views\/post.html.erb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/views\/post.html.erb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/views\/post_tag.html.erb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/views\/post_tag.html.erb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/views\/post_type.html.erb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/views\/post_type.html.erb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/default\/views\/search.html.erb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/default\/views\/search.html.erb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/new\/assets\/css\/main.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/new\/assets\/css\/main-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/new\/assets\/css\/styles.css.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/stylesheets\/styles.css.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/new\/assets\/images\/image.png": {
+		"ft": 32768,
+		"iS": 18564,
+		"oA": 0,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/new\/assets\/images\/image.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/new\/assets\/js\/main.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/new\/assets\/js\/main-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/new\/config\/config.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/new\/config\/config-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/new\/custom_helper.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/new\/custom_helper.rb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/new\/image.png": {
+		"ft": 32768,
+		"iS": 18564,
+		"oA": 0,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/new\/image.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/new\/views\/admin\/settings.html.erb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/new\/views\/admin\/settings.html.erb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/new\/views\/category.html.erb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/new\/views\/category.html.erb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/new\/views\/index.html.erb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/new\/views\/index.html.erb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/new\/views\/layouts\/_footer.html.erb": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/new\/views\/layouts\/_footer.html.erb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/new\/views\/layouts\/_header.html.erb": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/new\/views\/layouts\/_header.html.erb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/new\/views\/layouts\/index.html.erb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/new\/views\/layouts\/index.html.erb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/new\/views\/page.html.erb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/new\/views\/page.html.erb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/new\/views\/post.html.erb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/new\/views\/post.html.erb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/new\/views\/post_tag.html.erb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/new\/views\/post_tag.html.erb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/new\/views\/post_type.html.erb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/new\/views\/post_type.html.erb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/new\/views\/search.html.erb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/new\/views\/search.html.erb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/apps\/themes\/readme.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/apps\/themes\/readme.txt",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/assets\/config\/manifest.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/ldd-camaleon\/app\/assets\/config\/manifest-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/ldd-camaleon\/app\/assets\/images\/.keep": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/assets\/images\/.keep",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/assets\/javascripts\/application.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/ldd-camaleon\/app\/assets\/javascripts\/application-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/ldd-camaleon\/app\/assets\/javascripts\/cable.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/ldd-camaleon\/app\/assets\/javascripts\/cable-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/ldd-camaleon\/app\/assets\/javascripts\/channels\/.keep": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/assets\/javascripts\/channels\/.keep",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/assets\/stylesheets\/application.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/ldd-camaleon\/app\/assets\/stylesheets\/application-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/ldd-camaleon\/app\/channels\/application_cable\/channel.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/channels\/application_cable\/channel.rb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/channels\/application_cable\/connection.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/channels\/application_cable\/connection.rb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/controllers\/application_controller.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/controllers\/application_controller.rb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/controllers\/concerns\/.keep": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/controllers\/concerns\/.keep",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/helpers\/application_helper.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/helpers\/application_helper.rb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/jobs\/application_job.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/jobs\/application_job.rb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/mailers\/application_mailer.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/mailers\/application_mailer.rb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/models\/application_record.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/models\/application_record.rb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/models\/concerns\/.keep": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/models\/concerns\/.keep",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/views\/layouts\/application.html.erb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/views\/layouts\/application.html.erb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/views\/layouts\/mailer.html.erb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/views\/layouts\/mailer.html.erb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/app\/views\/layouts\/mailer.text.erb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/app\/views\/layouts\/mailer.text.erb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/bin\/bundle": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/bin\/bundle",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/bin\/rails": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/bin\/rails",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/bin\/rake": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/bin\/rake",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/bin\/setup": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/bin\/setup",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/bin\/spring": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/bin\/spring",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/bin\/update": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/bin\/update",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/bin\/yarn": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/bin\/yarn",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/config.ru": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/config.ru",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/config\/application.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/config\/application.rb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/config\/boot.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/config\/boot.rb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/config\/cable.yml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/config\/cable.yml",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/config\/database.yml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/config\/database.yml",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/config\/environment.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/config\/environment.rb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/config\/environments\/development.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/config\/environments\/development.rb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/config\/environments\/production.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/config\/environments\/production.rb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/config\/environments\/test.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/config\/environments\/test.rb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/config\/initializers\/application_controller_renderer.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/config\/initializers\/application_controller_renderer.rb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/config\/initializers\/assets.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/config\/initializers\/assets.rb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/config\/initializers\/backtrace_silencers.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/config\/initializers\/backtrace_silencers.rb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/config\/initializers\/cookies_serializer.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/config\/initializers\/cookies_serializer.rb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/config\/initializers\/filter_parameter_logging.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/config\/initializers\/filter_parameter_logging.rb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/config\/initializers\/inflections.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/config\/initializers\/inflections.rb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/config\/initializers\/mime_types.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/config\/initializers\/mime_types.rb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/config\/initializers\/wrap_parameters.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/config\/initializers\/wrap_parameters.rb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/config\/locales\/en.yml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/config\/locales\/en.yml",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/config\/puma.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/config\/puma.rb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/config\/routes.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/config\/routes.rb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/config\/secrets.yml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/config\/secrets.yml",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/config\/spring.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/config\/spring.rb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/config\/system.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/ldd-camaleon\/config\/system-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/ldd-camaleon\/db\/development.sqlite3": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/db\/development.sqlite3",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/db\/schema.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/db\/schema.rb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/db\/seeds.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/db\/seeds.rb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/db\/test.sqlite3": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/db\/test.sqlite3",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/Gemfile": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/Gemfile",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/Gemfile.lock": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/Gemfile.lock",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/lib\/assets\/.keep": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/lib\/assets\/.keep",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/lib\/plugin_routes.rb": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/lib\/plugin_routes.rb",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/lib\/tasks\/.keep": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/lib\/tasks\/.keep",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/log": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/ldd-camaleon\/log",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/package.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "\/ldd-camaleon\/package-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/ldd-camaleon\/public\/404.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/public\/404.html",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/public\/422.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/public\/422.html",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/public\/500.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/public\/500.html",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/public\/apple-touch-icon-precomposed.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/ldd-camaleon\/public\/apple-touch-icon-precomposed.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/ldd-camaleon\/public\/apple-touch-icon.png": {
+		"ft": 32768,
+		"iS": 0,
+		"oA": 0,
+		"oAP": "\/ldd-camaleon\/public\/apple-touch-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/ldd-camaleon\/public\/favicon.ico": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/public\/favicon.ico",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/public\/robots.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/public\/robots.txt",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/Rakefile": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/Rakefile",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/README.md": {
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"eLB": 0,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"oA": 0,
+		"oAP": "\/ldd-camaleon\/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
+		},
+	"\/ldd-camaleon\/tmp\/.keep": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/tmp\/.keep",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/tmp\/cache": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/build\/ldd-camaleon\/tmp\/cache",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/tmp\/restart.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/tmp\/restart.txt",
+		"oF": 0
+		},
+	"\/ldd-camaleon\/vendor\/.keep": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ldd-camaleon\/vendor\/.keep",
+		"oF": 0
+		},
 	"\/source\/_cards.sass": {
 		"aP": 0,
 		"bl": 0,
@@ -756,16 +1934,6 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "\/stylesheets\/ldd-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/stylesheets\/navbar.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/stylesheets\/navbar-min.css",
 		"oF": 0,
 		"oS": 3
 		},

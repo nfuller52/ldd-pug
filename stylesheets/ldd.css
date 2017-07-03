@@ -39,22 +39,26 @@ h6 {
     .main-navbar .navbar-brand .primary {
       color: #498658;
       letter-spacing: -0.05em; }
-  .main-navbar .nav-link {
-    text-transform: uppercase;
-    color: #fff !important;
-    transition: 200ms;
-    padding: 0.6em 1em 0.5em 1em; }
-    .main-navbar .nav-link:hover {
-      color: #498658 !important; }
-  .main-navbar .nav-item {
-    padding: 0.5em; }
-  .main-navbar .nav-item.cta {
-    padding: 0.4em; }
-  .main-navbar .nav-link.cta {
-    border: 2px solid #498658 !important;
+
+ul.navbar-nav a {
+  text-transform: uppercase;
+  color: #fff !important;
+  transition: 200ms;
+  padding: 0.6em .5em 0.5em .5em; }
+  ul.navbar-nav a:hover, ul.navbar-nav a:active, ul.navbar-nav a:focus {
+    color: #498658 !important;
+    text-decoration: none; }
+
+ul.navbar-nav li {
+  padding: 0.5em; }
+
+ul.navbar-nav li:last-child {
+  padding: 0.4em; }
+  ul.navbar-nav li:last-child a {
+    border: 2px solid #498658;
     border-radius: 6px;
     padding: 0.6em 2em 0.5em 2em; }
-    .main-navbar .nav-link.cta:hover {
+    ul.navbar-nav li:last-child a:hover {
       background-color: #498658;
       color: #fff !important; }
 
@@ -63,13 +67,16 @@ h6 {
     background-color: #323232 !important; }
     nav.navbar .nav-container {
       margin-left: 0;
-      margin-right: 0; }
-    nav.navbar ul li {
-      text-align: center; } }
+      margin-right: 0; } }
 
 @media screen and (max-width: 991px) {
   nav.navbar {
-    background-color: #323232 !important; } }
+    background-color: #323232 !important; }
+    nav.navbar ul li {
+      text-align: center;
+      display: block; }
+      nav.navbar ul li a {
+        display: block; } }
 
 .hero {
   background-color: #323232;

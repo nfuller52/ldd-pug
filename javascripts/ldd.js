@@ -1,74 +1,25 @@
-$(document).ready(function() {
-  if ( $( "#particles" ).length ) {
-    initiateParticlesBlaster();
-  }
-
-  smoothScrolling();
-
-  if ( $( "#main-hero" ).length ) {
-    var distanceToTop = $( "#news" ).offset().top;
-    var navbar = $( "#main-navbar" );
-    var $window = $( window );
-    var heroItems = $( "#hero-items" );
-    var scrollHandling = {
-      allow: true,
-      reallow: function() {
-        scrollHandling.allow = true;
-      },
-      delay: 100
-    }
-
-    navbar.addClass('transparent');
-
-    $window.scroll( function() {
-      var wScroll = $window.scrollTop();
-
-      if ( wScroll <= distanceToTop ) {
-        heroItems.css({
-          "transform": "translate(0px, " + wScroll / 3 + "%)"
-        });
-      }
-
-      if ( scrollHandling.allow ) {
-        if ( wScroll > 450 ) {
-          navbar.removeClass( "transparent" );
-        } else {
-          navbar.addClass( "transparent" );
-        }
-
-        scrollHandling.allow = false;
-        setTimeout( scrollHandling.reallow, scrollHandling.delay );
-      }
-    });
-  }
-});
-
 function smoothScrolling() {
   // Select all links with hashes
-  $('a[href*="#"]')
+  jQuery('a[href*="#"]')
     .not('[href="#"]')
     .not('[href="#0"]')
     .click(function(event) {
-      if (
-        location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '')
-        &&
-        location.hostname == this.hostname
-      ) {
-        var target = $(this.hash);
-        target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+      if ( location.pathname.replace(/^\//, '') === this.pathname.replace(/^\//, '') && location.hostname === this.hostname ) {
+        var target = jQuery(this.hash);
+        target = target.length ? target : jQuery('[name=' + this.hash.slice(1) + ']');
         if (target.length) {
           event.preventDefault();
-          $('html, body').animate({
+          jQuery('html, body').animate({
             scrollTop: target.offset().top - 74
           }, 1000, function() {
-            var $target = $(target);
+            var $target = jQuery(target);
             $target.focus();
             if ($target.is(":focus")) {
               return false;
             } else {
               $target.attr('tabindex','-1');
               $target.focus();
-            };
+            }
           });
         }
       }
@@ -104,7 +55,7 @@ function initiateParticlesBlaster() {
         }
       },
       "opacity": {
-        "value": .2,
+        "value": 0.2,
         "random": false,
         "anim": {
           "enable": false,
@@ -183,3 +134,48 @@ function initiateParticlesBlaster() {
     "retina_detect": true
   });
 }
+
+jQuery(document).ready(function() {
+  if ( jQuery( "#particles" ).length ) {
+    initiateParticlesBlaster();
+  }
+
+  smoothScrolling();
+
+  if ( jQuery( "#main-hero" ).length ) {
+    var distanceToTop = jQuery( "#news" ).offset().top;
+    var navbar = jQuery( "#main-navbar" );
+    var theWindow = jQuery( window );
+    var heroItems = jQuery( "#hero-items" );
+    var scrollHandling = {
+      allow: true,
+      reallow: function() {
+        scrollHandling.allow = true;
+      },
+      delay: 100
+    };
+
+    navbar.addClass('transparent');
+
+    theWindow.scroll( function() {
+      var wScroll = theWindow.scrollTop();
+
+      if ( wScroll <= distanceToTop ) {
+        heroItems.css({
+          "transform": "translate(0px, " + wScroll / 3 + "%)"
+        });
+      }
+
+      if ( scrollHandling.allow ) {
+        if ( wScroll > 450 ) {
+          navbar.removeClass( "transparent" );
+        } else {
+          navbar.addClass( "transparent" );
+        }
+
+        scrollHandling.allow = false;
+        setTimeout( scrollHandling.reallow, scrollHandling.delay );
+      }
+    });
+  }
+});

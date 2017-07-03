@@ -34,29 +34,33 @@
       color: $primary
       letter-spacing: -0.05em
 
-  .nav-link
+ul.navbar-nav
+  a
     text-transform: uppercase
     color: $white !important
     transition: 200ms
-    padding: 0.6em 1em 0.5em 1em
+    padding: 0.6em .5em 0.5em .5em
 
-    &:hover
+    &:hover,
+    &:active,
+    &:focus
       color: $primary !important
+      text-decoration: none
 
-  .nav-item
+  li
     padding: 0.5em
 
-  .nav-item.cta
+  li:last-child
     padding: 0.4em
 
-  .nav-link.cta
-    border: 2px solid $primary !important
-    border-radius: 6px
-    padding: 0.6em 2em 0.5em 2em
+    a
+      border: 2px solid $primary
+      border-radius: 6px
+      padding: 0.6em 2em 0.5em 2em
 
-    &:hover
-      background-color: $primary
-      color: $white !important
+      &:hover
+        background-color: $primary
+        color: $white !important
 
 @media screen and (max-width: 575px)
   nav.navbar
@@ -66,9 +70,13 @@
       margin-left: 0
       margin-right: 0
 
-    ul li
-      text-align: center
-
 @media screen and (max-width: 991px)
   nav.navbar
     background-color: $grey !important
+
+    ul li
+      text-align: center
+      display: block
+
+      a
+        display: block
